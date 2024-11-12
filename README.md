@@ -27,3 +27,7 @@
 ## 🌄 Future Plans
 
 - Applying GenAI to real-world web applications
+
+## 🏆 Contributions
+
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
