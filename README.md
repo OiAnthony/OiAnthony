@@ -4,9 +4,9 @@
 
 🔥 Currently exploring GenAI
 
-🚀 Interested in LLMs: Qwen2.5 Coder 32B, Claude 3.5 Sonnet, o1-mini
+🚀 Interested in LLMs: Claude 3.5 Sonnet, DeepSeek V3
 
-🎨 Interested in VLMs: Qwen2 VL Max, GPT4o, Gemini 1.5 Pro
+🎨 Interested in VLMs: GPT4o, Gemini 2.0 Flash/Gemini 1.5 Pro, Qwen2 VL
 
 ### 🍜 Tech Stack
 
