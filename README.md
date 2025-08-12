@@ -4,10 +4,6 @@
 
 🔥 Currently exploring GenAI
 
-🚀 Interested in LLMs: Claude 3.7 Sonnet, DeepSeek V3 & R1
-
-🎨 Interested in VLMs: GPT4o, Gemini 2.0 Flash / Pro, Qwen2.5 VL
-
 ### 🍜 Tech Stack
 
 #### 🌐 Frontend
