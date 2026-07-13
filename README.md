@@ -8,11 +8,11 @@
 
 #### 🌐 Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,nextjs,prisma,tailwindcss)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,prisma,tailwindcss)](https://skillicons.dev)
 
 #### ⚙️ Backend
 
-[![Backend Skills](https://skillicons.dev/icons?i=python,fastapi,flask,go,java,spring)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,fastapi,flask,go,java,spring)](https://skillicons.dev)
 
 ### 🛠️ Development Tools
 
